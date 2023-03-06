@@ -1,0 +1,13 @@
+できるだけ対面で制作
+進捗報告はgoogle documentで行う
+unity version: 2020.3.4f1
+
+2人での実装箇所
+1. cesium for unity(建物を白く表示させられる)→目的地を赤くする
+→建物じゃない場合はピンを指したりすることにより指定
+→2Dmap上で待ち合わせ場所を指定することができる
+2. ARでの位置情報の共有
+→photon
+
+
+(データベース登録→lambda, api gateway, S3(ストレージ)、　firebase authentication)
